@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-playwright-tests",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes utilizando Playwright para validar funcionalidades do site SauceDemo. Este repositório contém testes automatizados para cenários como login, navegação de produtos, adição ao carrinho e fluxo de checkout. O objetivo é praticar e aprimorar habilidades em automação de testes de UI.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
